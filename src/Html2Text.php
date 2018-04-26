@@ -287,7 +287,7 @@ class Html2Text {
 				break;
 
 			case "li":
-				$output = "- ";
+				$output = "• ";
 				break;
 
 			default:
